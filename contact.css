@@ -48,3 +48,50 @@ html, body{
     position:relative;
     overflow-y: auto;
 }
+.contactme{
+    position:absolute;
+    left:15%;
+    top:10px;
+    color:white;
+    padding:0 60px;
+    margin-top: 5%;
+    overflow: hidden;
+}
+.inputtext{
+    width:55%;
+    height:65px;
+    border:3px solid black;
+    color:white;
+    background-color:rgba(0,0,0,0.7);
+    font-size:20px;
+    padding:0 10px;
+    float:left;
+    margin-bottom:15px;
+}
+.inputmessage{
+    width:55%;
+    height:135px;
+    border:3px solid black;
+    color:white;
+    background-color:rgba(0,0,0,0.7);
+    font-size:20px;
+    padding:0 10px;
+    float:left;
+}
+.submitbutton{
+    width:160px;
+    height:65px;
+    background-color: white;
+    color:black;
+    font-size: 28px;
+    border:none;
+    font-weight:bold;
+    float:left;
+    clear:both;
+    margin-top:25px;
+}
+.submitbutton:hover{
+    background-color: crimson;
+    color: white;
+    cursor: pointer;
+}
