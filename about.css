@@ -48,3 +48,12 @@ html, body{
     position:relative;
     overflow-y: auto;
 }
+.aboutme{
+    position:absolute;
+    right:0;
+    top:10px;
+    color:white;
+    font-family:century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0 60px;
+}
+
