@@ -66,3 +66,43 @@ html, body{
       text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
     }
   }
+  .counter{
+    box-sizing: border-box;
+    width:75%;
+    margin-top: 5%;
+    margin-left:15%;
+    padding: 10px;
+    align-items: center;
+    overflow:hidden;
+}
+.column {
+    float: left;
+    width:20%;
+    padding: 0 5px;
+}  
+.row {
+    margin: 0 -5px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 10px;
+    }
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    background-color:rgb(100, 4, 119);
+    color: white;
+    font-size:25px;
+}
+.fa {
+    font-size:70px;
+}
