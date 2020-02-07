@@ -180,6 +180,12 @@ html, body{
     position: relative;
     border-radius: 6px;
 }
+span{
+    font-size:40px;
+    font-weight: 700;
+    text-align: center;
+    color:white;
+}
   @media screen and (max-width: 600px) {
    .timeline::after {
     left: 31px;
