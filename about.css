@@ -50,10 +50,10 @@ html, body{
 }
 .aboutme{
     position:absolute;
-    right:20%;
+    right:15%;
     top:10px;
     color:white;
-    font-family:century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 0 60px;
     background-color: black;
     opacity: 0.5;
@@ -70,4 +70,8 @@ ul{
     margin-bottom: 20px;
     margin-top:20px;
     right: 30%;
+}
+.aboutme:hover{
+    background-color:white;
+    color:black;
 }
