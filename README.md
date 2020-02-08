@@ -4,8 +4,6 @@
 ## Description
 Basically the portfolio contains information about me.
 <br>
-Here is a live link to my website <a href="">Portfolio</a>
-<br>
 So when is accesses the website:
 <ul>
 <li>They see is the homepage which contains my photo, my name and what I do.</li>
