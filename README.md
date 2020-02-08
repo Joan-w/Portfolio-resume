@@ -1,5 +1,5 @@
 # Portfolio-resume
-#### The websit entails my personal portfolio, 8th February 2020.
+#### The website entails my personal portfolio, 8th February 2020.
 #### By **Joan Wamuyu Kinyua**
 ## Description
 Basically the portfoolio contains information about me. So when is accesses the website:
