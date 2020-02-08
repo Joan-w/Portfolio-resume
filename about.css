@@ -55,7 +55,8 @@ html, body{
     color:white;
     font-family:century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 0 60px;
-    background-color: white;
+    background-color: black;
+    opacity: 0.5;
 }
 .aboutme p{
     font-size:18px;
@@ -68,4 +69,5 @@ ul{
     line-height:28px;
     margin-bottom: 20px;
     margin-top:20px;
+    right: 30%;
 }
