@@ -2,7 +2,11 @@
 #### The website entails my personal portfolio, 8th February 2020.
 #### By **Joan Wamuyu Kinyua**
 ## Description
-Basically the portfoolio contains information about me. So when is accesses the website:
+Basically the portfolio contains information about me.
+<br>
+Here is a live link to my website <a href="">Portfolio</a>
+<br>
+So when is accesses the website:
 <ul>
 <li>They see is the homepage which contains my photo, my name and what I do.</li>
 <li>From the homepage there is a navigation bar which one can use it to navigate to various pages.</li>
@@ -32,7 +36,7 @@ With any feedback of any kind or you want us to work together on something feel 
 <br>
 *MIT License
 
-Copyright (c) [year] [Joan Wamuyu Kinyua]
+Copyright (c) 2020 Joan Wamuyu Kinyua
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
