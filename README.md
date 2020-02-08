@@ -2,7 +2,11 @@
 #### The website entails my personal portfolio, 8th February 2020.
 #### By **Joan Wamuyu Kinyua**
 ## Description
-Basically the portfoolio contains information about me. So when is accesses the website:
+Basically the portfolio contains information about me.
+<br>
+Take a look at the live link <a href="https://joan-w.github.io/Portfolio-resume/">Portfolio for Joan</a>
+<br>
+So when is accesses the website:
 <ul>
 <li>They see is the homepage which contains my photo, my name and what I do.</li>
 <li>From the homepage there is a navigation bar which one can use it to navigate to various pages.</li>
