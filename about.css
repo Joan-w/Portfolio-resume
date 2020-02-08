@@ -46,12 +46,13 @@ html, body{
     background-repeat:no-repeat;
     background-size:cover;
     position:relative;
-    overflow-y: auto;
+    overflow:hidden;
 }
 .aboutme{
     position:absolute;
+    text-align: center;
     right:10%;
-    top:10px;
+    top:5px;
     color:white;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 0 60px;
@@ -70,19 +71,24 @@ ul{
     margin-bottom: 20px;
     margin-top:20px;
     right: 30%;
+    list-style: none;
 }
 .aboutme:hover{
     background-color:white;
     color:black;
     cursor: pointer;
 }
+span{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
 .footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 25px;
-    padding-top: 10px;
+    height: 20px;
+    padding-top: 5px;
     background-color: #000;
     color: white;
     text-align: center;
