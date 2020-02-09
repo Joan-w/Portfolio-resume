@@ -44,7 +44,7 @@ html, body{
     height:600px;
     position:relative;
     overflow-y: auto;
-    background-image: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/contact.jpg");
+    background: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/contact.jpg");
     background-repeat:no-repeat;
     background-size:cover;
 }
