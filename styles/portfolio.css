@@ -115,11 +115,6 @@ ul{
     right: 30%;
     list-style: none;
 }
-.aboutme:hover{
-    background-color:white;
-    color:black;
-    cursor: pointer;
-}
 .aboutme span{
     text-decoration: underline;
     text-transform: uppercase;
