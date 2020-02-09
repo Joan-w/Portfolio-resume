@@ -44,7 +44,7 @@ html, body{
     height:600px;
     position:relative;
     overflow-y: auto;
-    background-image: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/splash.jpg");
+    background-image: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/contact.jpg");
     background-repeat:no-repeat;
     background-size:cover;
 }
@@ -308,7 +308,7 @@ span{
 .contact-background{
     width:100%;
     height:86%;
-    background-image: url("https://bit.ly/377MZed");
+    background-image: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/contact.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     position:relative;
