@@ -7,7 +7,7 @@ html, body{
     height:100%;
     font-size:14px;
     font-weight:normal;
-    background-image: url("Images/hello.jpg");
+    background-image: url("./Images/hello.jpg");
     background-repeat:no-repeat;
     background-size:cover;
 }
