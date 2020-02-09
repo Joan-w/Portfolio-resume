@@ -1,5 +1,5 @@
 # Personal Portfolio
-#### The project is about my personal portfolio, 08/02/2020
+#### Startup Portfolio as a Software Engineer, 08/02/2020
 #### By **{List of contributors}**
 ## Description
 The portfolio entails my background information, my hobbies/interests and skills and the naumber of the projects I have done. Basically it contains information about myself.
