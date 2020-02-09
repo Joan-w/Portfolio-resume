@@ -7,6 +7,9 @@ html, body{
     height:100%;
     font-size:14px;
     font-weight:normal;
+    background-image:url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/img/contact.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 #mySidenav a {
     position: absolute;
@@ -44,9 +47,6 @@ html, body{
     height:600px;
     position:relative;
     overflow-y: auto;
-    background: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/contact.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
 }
 img{
     width:400px;
@@ -84,9 +84,6 @@ img{
 .about-background{
     width:100%;
     height:100%;
-    background-image: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/aboit.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
     position:relative;
     overflow:hidden;
 }
@@ -124,9 +121,6 @@ ul{
 .project-background{
     width:100%;
     height:850px;
-    background-image: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/dark.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
     position:relative;
     overflow:hidden;
 }
@@ -308,9 +302,6 @@ span{
 .contact-background{
     width:100%;
     height:86%;
-    background-image: url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/Images/contact.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
     position:relative;
     overflow-y: auto;
 }
