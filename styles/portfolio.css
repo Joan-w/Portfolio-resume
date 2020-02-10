@@ -7,7 +7,7 @@ html, body{
     height:100%;
     font-size:14px;
     font-weight:normal;
-    background-image:url("/home/joan/Documents/Moringa-school-projects/Portfolio/Resume/img/contact.jpg");
+    background-image:url("../img/contact.jpg");
     background-repeat: no-repeat;
     background-size:cover;
 }
