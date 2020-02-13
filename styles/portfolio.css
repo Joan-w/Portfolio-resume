@@ -66,7 +66,7 @@ img{
     position:absolute;
     right:0;
     bottom:20px;
-    color:rgb(100, 4, 119);
+    color:rgb(175, 23, 206);
     font-family:Verdana;
 }
 .home h1{
@@ -77,9 +77,9 @@ img{
 }
 .home h3{
     font-size:28px;
-    color:rgb(248, 3, 77);
+    color:rgb(214, 9, 70);
     padding:5px 0;
-    opacity:0.6;
+    opacity:1;
 }
 .about-background{
     width:100%;
