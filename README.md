@@ -1,11 +1,11 @@
 # Personal Portfolio
 #### Startup Portfolio as a Software Engineer, 08/02/2020
-#### By **{Joan Wamuyu Kinyua}**
+#### By **Joan Wamuyu Kinyua**
 ## Description
 The portfolio entails my background information, my hobbies/interests and skills and the naumber of the projects I have done. Basically it contains information about myself.
 ## Setup/Installation Requirements
 * When one opens any browser and types in the portfolio the first thing you see is the landing page which contains my picture, my name and what I do.
-* From the homepage there is a navigation bar where one is able to navigate to any age of their choice.
+* From the homepage there is a side navigation bar which one needs to hover around it for ine to be able to navigate to any page of their choice.
 * The first page one likely navigates to is the about page which now is made of my information and hobbies and skills.
 * The second page one likely navigates to is the projects page which contains a number of projects I have done with examples.
 * The last page is the contacts page which contains a form where one can leave any message for me and most preferably a message of us working together.
