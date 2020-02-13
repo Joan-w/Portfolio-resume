@@ -1,6 +1,6 @@
 # Personal Portfolio
 #### Startup Portfolio as a Software Engineer, 08/02/2020
-#### By **{List of contributors}**
+#### By **{Joan Wamuyu Kinyua}**
 ## Description
 The portfolio entails my background information, my hobbies/interests and skills and the naumber of the projects I have done. Basically it contains information about myself.
 ## Setup/Installation Requirements
@@ -18,7 +18,7 @@ One needs data bundles to access the portfolio.
 ## Support and contact details
 You can feel free to give me any feed back or as any questions through:
 * 0740583841
-* Joan Wamuyu Kinyu - Facebook
+* Joan Wamuyu Kinyua - Facebook
 * @JoanKinyua4 - Twitter
 ### License
 * MIT License
