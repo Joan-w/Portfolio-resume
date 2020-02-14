@@ -26,9 +26,25 @@ html, body{
 #mySidenav a:hover {
     left: 0;
 }
-#home {
+#sidehome a {
+    /* transition: none; */
+    color:white;
+    font-size: 22px;
+    font-weight: 700;
+    border-radius: 0 5px 5px 0;
+    text-decoration: none;
+    width: 100px;
+    height: 20px;
+    padding: 15px;
+    left:0px;
+    position: absolute;
     top: 100px;
     background-color: rgb(100, 4, 119);
+}
+#sidehome a:hover {
+    background-color: white;
+    color: rgb(100, 4, 119);
+    /* left: auto; */
 }
 #about {
     top: 160px;
